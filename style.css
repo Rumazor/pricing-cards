@@ -159,6 +159,7 @@ ul li {
     color: var(--black);
 }
 
+
 .check-box {
     display: inline-block;
     position: static;
@@ -278,7 +279,7 @@ ul .opacity-li{
         font-size: 3.8rem;
     }
     .plans-p {
-        font-size: 2.8rem;
+        font-size: 2.4rem;
         margin-top: 20px;
     }
     #basic {
